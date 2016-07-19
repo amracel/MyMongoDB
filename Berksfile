@@ -1,2 +1,2 @@
 source "https://supermarket.getchef.com"
-cookbook 'mongodb'
+cookbook 'mongodb' '= 3.2.0'
